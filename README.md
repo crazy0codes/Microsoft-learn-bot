@@ -46,10 +46,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - This project was inspired by the need for efficient navigation through Microsoft Learn training modules.
 - Thanks to the Selenium community for providing a powerful tool for web automation.
 
-## Contact
-
-For any inquiries or feedback, please contact [Your Name] at [Your Email Address].
-
 ## Disclaimer
 
 This project is for educational and personal use only. The user is responsible for complying with all terms of service and policies of Microsoft Learn while using this automation tool.
